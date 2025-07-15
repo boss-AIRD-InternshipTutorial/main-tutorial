@@ -36,7 +36,7 @@ https://github.com/LLM-BabyGuide/Transformers
 
 ## 5、HuggingFace学习
 
-1）视频教程：https://space.bilibili.com/21060026
+1）视频教程：[https://space.bilibili.com/21060026](https://www.bilibili.com/video/BV1ma4y1g791/?spm_id_from=333.1387.homepage.video_card.click&vd_source=a9d461fc0f2f4083b5d9cfa08325cda2)
 （评论区有代码链接）
 
 2） 官方文档：https://huggingface.co/learn/nlp-course/zh-CN/chapter1/1?fw=pt
