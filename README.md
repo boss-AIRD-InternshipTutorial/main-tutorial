@@ -56,3 +56,7 @@ https://github.com/LLM-BabyGuide/Transformers
 ## 8、其他论文
 
 见github仓库：https://github.com/boss-AIR-D-InternshipTutorial/paper
+
+## 9、Linux学习
+
+Linux命令行基础教程：https://www.bilibili.com/video/BV1cq421w72c/?spm_id_from=333.337.search-card.all.click&vd_source=a9d461fc0f2f4083b5d9cfa08325cda2
